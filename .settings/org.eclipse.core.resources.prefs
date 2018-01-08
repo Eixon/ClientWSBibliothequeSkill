@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/fr/ynov/biblioskill/service/AccountType.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Auteur.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Catalogue.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/CataloguePortBindingStub.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/CatalogueServiceService.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/CatalogueServiceServiceLocator.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Categorie.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Livre.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Personne.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Pret.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/TypeAuteur.java=UTF-8
+encoding//src/fr/ynov/biblioskill/service/Utilisateur.java=UTF-8
