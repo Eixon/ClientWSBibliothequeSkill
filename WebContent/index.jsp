@@ -1,5 +1,4 @@
 <%@page import="fr.ynov.biblioskill.service.CatalogueProxy" %>
-<%@page import="fr.ynov.biblioskill.service.Categorie" %>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -9,14 +8,10 @@
 <title>Biblioskill</title>
 </head>
 <body>
-	<% 
-		CatalogueProxy stub = new CatalogueProxy();
+	<h1>SOAP</h1>
 	
-	Categorie[] categories = stub.consulterCategories();
-	
-	for(Categorie c : categories) {
-		c.getNom();
-	}
-	%>
+	<a href="categories.jsp">Catégories</a>
+	<a href="auteurs.jsp">Auteurs</a>
+	<a href="livres.jsp">Livres</a>
 </body>
 </html>
